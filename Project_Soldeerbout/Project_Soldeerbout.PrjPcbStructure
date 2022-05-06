@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=CPU.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=CPU.SchDoc|FileName=Display.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=CPU.SchDoc|FileName=Regelaar.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=CPU.SchDoc|FileName=Versterker.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=CPU.SchDoc|FileName=Voeding_Soldeerbout.SchDoc|SheetNumber=1
